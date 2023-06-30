@@ -1,0 +1,128 @@
+{
+    "projects":[
+        {
+            "id":"1",
+            "image":"imgae ",
+            "name":" first Portfolio",
+            "gitLink":"http//",
+            "netLink":"http//" 
+        },
+        {
+            "id":"2",
+            "image":"img",
+            "name":"Calculator",
+            "gitLink":"",
+            "netLink":"" 
+        },
+        {
+            "id":"3",
+            "image":"img",
+            "name":"eCommerces",
+            "gitLink":"http//",
+            "netLink":"http//" 
+        },
+        {
+            "id":"4",
+            "image":"img",
+            "name":"Tempreture Converter",
+            "gitLink":"http//",
+            "netLink":"http//" 
+        },
+        {
+            "id":"5",
+            "image":"img",
+            "name":"To do List",
+            "gitLink":"http//",
+            "netLink":"http//" 
+        }
+    ],
+
+    "Resume":[
+        {
+            "id":"1",
+            "JobTitle":"StockCounter ",
+            "position":"counter and scanner",
+            "duration":"part-time from 2017-2021(flexable)" 
+        },
+        {
+            "id":"2",
+            "JobTitle":"Dischem-Pharmacy",
+            "position":"Cashier",
+            "duration":"Nov2018-feb2019 (3 months)" 
+        },
+        {
+            "id":"3",
+            "JobTitle":"Giants, Epping",
+            "position":"merchantdisher",
+            "duration":"Aug 2022-March2023 (7 months)" 
+        }
+    ],
+
+    "Testermonals":[
+        {
+            "id":"1",
+            "image":"img",
+            "name":"logan",
+            "msg":"lorem text"
+        },
+        {
+            "id":"1",
+            "image":"https://ca.slack-edge.com/T02LW4RMXJQ-U044E890DU1-ab09fc8ffc2f-512",
+            "name":"Seth",
+            "msg":"Logan Thomas is dedicated, hard working and a team player. He works well with his peers and performs well on his projects. He has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have him"
+        },
+        {
+            "id":"2",
+            "image":"https://i.postimg.cc/0yb9W1Gs/IMG-20230505-WA0000.jpg",
+            "name":"Alonso",
+            "msg":"Logan is a hard-working individual with a passion for coding. I've seen his commitment first hand and it is an encouragement to everyone around him. He is a helpful person with an understanding of web development and all it's concepts. He is an individual you will be happy to have in your corner"
+        },
+        {
+            "id":"3",
+            "image":"https://i.postimg.cc/BbGXcKTV/C12-C2-Siyamanga-Zweni-2.jpg",
+            "name":"Siyamanga",
+            "msg":"Working with Logan was an incredible experience. His professionalism, attention to detail, and communication skills made the entire process easy. He consistently exceeded my expectations and delivered exceptional results. I would highly recommend Logan to anyone looking for a talented and dedicated professional"
+        },
+        {
+            "id":"4",
+            "image":"https://i.postimg.cc/Y9xLCr5m/kgodishoface.jpg",
+            "name":"Kgodisho",
+            "msg":"Logan Thomas is dedicated, hard working and a team player. He works well with his peers and performs well on his projects. He has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have him"
+        },
+        {
+            "id":"5",
+            "image":"https://i.postimg.cc/QNcZwvs7/C12-Abdoelmaaliek-Samaai-1.jpg",
+            "name":"Abdoel",
+            "msg":"He is a vibrant person who is eager to seek knowledge and do his best in everything he does. He is a quiet person and friendly person. He is also supportive person and gives good advice"
+        }
+    ],
+    
+    "education":[
+        {
+          "id":"1",
+          "place":"Modderdam High",
+          "time":"2014 to 2018",
+          "qualification": "Grade 12 (Matric)"
+        },
+        {
+          "id":"2",
+          "place":"College Of Cape Town",
+          "time":"2020-2021",
+          "qualification": "N1- n3 building and civil"
+        },
+        {
+          "id":"3",
+          "place":"Rosebank College",
+          "time":" feb to may 2022",
+          "qualification": "incompelted Web Dev"
+        
+        },
+        {
+          "id":"4",
+          "place":"Life Choice",
+          "time":" feb 2022- may 2022",
+          "qualification":"currently busy"
+      
+        }
+    ]
+}
